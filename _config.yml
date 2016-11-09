@@ -16,7 +16,7 @@ url                      : "https://jianli03.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Jianli03/jianli03.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : true # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 100
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "James Li"
-  avatar           : "dream.jpg"
+  avatar           : "/assets/images/dream.jpg"
   bio              : "late to catch on, dare to catch up."
   location         : "Victoria, AU"
   email            : "jianli03@gmail.com"
