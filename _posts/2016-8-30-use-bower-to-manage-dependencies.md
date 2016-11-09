@@ -4,6 +4,9 @@ title: "Use Bower To Manage Front-End Dependencies"
 
 comments: true
 share: true
+category: nodejs
+tags: [bower, dependencies]  
+excerpt: Web sites are made of lots of things — frameworks, libraries, assets, and utilities. Bower manages all these things for you.  
 ---
 {% include base_path %}
 
