@@ -17,6 +17,7 @@ gallery:
     - url: /assets/images/cross.png
       image_path: assets/images/cross.png
       alt: "cross platform"
+    breadcrumbs: disabled  # disabled by default
 ---
 
 This is a voluntary project for me to build a website for Heathmont Photographic Group.
