@@ -7,6 +7,7 @@ comments: true
 share: true
 category: nodejs # 设置文章的类别
 tags: [logging, log4js] # 设置文章的tag，方便自己以后搜索用
+---
 {% include base_path %}
 
 LOG4j is a well known logging framework used in Java. Coming with the same logging style with LOG4J, LOG4JS is easy for those who have Java experience with LOG4J to get started with.   
