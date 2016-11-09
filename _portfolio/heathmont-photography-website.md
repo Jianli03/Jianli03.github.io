@@ -1,5 +1,6 @@
 ---
 title: "Photography Website"
+layout: single
 excerpt: "This voluntary website project including logo mark,
 website design, and branding applications."
 
@@ -7,7 +8,7 @@ header:
   teaser: /assets/images/bestinshow-th.png
 sidebar:
   - title: "Role"
-    image: /assets/images/cross.png
+    image: /assets/images/bestinshow-th.png
     image_alt: "logo"
     text: "Designer, Web Developer"
   - title: "Responsibilities"
