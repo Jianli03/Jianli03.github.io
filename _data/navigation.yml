@@ -1,0 +1,16 @@
+# main links links
+main:
+
+  - title: "WEB"
+    url: /web/
+ 
+   - title: "JAVA"
+    url: /java/
+  
+  - title: "PORTFOLIO"
+    url: /portfolio/
+
+  - title: "ABOUT"
+    url: /about/
+
+
