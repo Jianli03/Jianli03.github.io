@@ -4,11 +4,10 @@ excerpt: "This voluntary website project including logo mark,
 website design, and branding applications."
 
 header:
-
-  teaser: bestinshow-th.png
+  teaser: /assets/images/bestinshow-th.png
 sidebar:
   - title: "Role"
-    image: /assets/images/bestinshow-th.png
+    image: /assets/images/cross.png
     image_alt: "logo"
     text: "Designer, Web Developer"
   - title: "Responsibilities"
@@ -16,10 +15,11 @@ sidebar:
     probably keep updating in the future. "
 
 gallery:
-    - url: /assets/images/cross.png
+    - url: cross.png
       image_path: /assets/images/cross.png
       alt: "cross platform"
 
+ share : false
 ---
 
 This is a voluntary project for me to build a website for Heathmont Photographic Group.

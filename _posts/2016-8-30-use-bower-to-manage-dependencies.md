@@ -14,8 +14,6 @@ Bower — a package manager for the web.
 > "Web sites are made of lots of things — frameworks, libraries, assets, and
 > utilities. Bower manages all these things for you."  
 
-
-
 ## Why Use Bower
 Recently I have been working on some website development projects.
 I found that it was time consuming and error prone to manually manage third party packages like jQuery, Bootstrap, Moderniz, which generally means googling and downlaoding those packages. In the further, repeating process all over again might be needed for updating. I was pretty sure there is a way similar to how we manage Java dependency using Maven or Grandle. Therefore, I leart and used Bower to manage components of the front end. Bower is very handy to install the right versions of the packages you need and manage their dependencies.  
