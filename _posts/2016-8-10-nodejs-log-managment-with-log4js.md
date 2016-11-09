@@ -1,18 +1,18 @@
 ---
 layout: single
-title: "Use LOG4JS for Node Application Logging "
+title: "Use LOG4JS for Node Application Logging"
 header:
   teaser: /assets/images/my-awesome-post-teaser.jpg
 comments: true
 share: true
-category: nodejs # 设置文章的类别
-tags: [logging, log4js] # 设置文章的tag，方便自己以后搜索用
+category: nodejs
+tags: [logging, log4js]  
 ---
+
 {% include base_path %}
 
 LOG4j is a well known logging framework used in Java. Coming with the same logging style with LOG4J, LOG4JS is easy for those who have Java experience with LOG4J to get started with.   
-
-<!-- more -->
+ 
 
 ## 1 Default Console Output
 When we use express framework and start a nodejs app, console will output some message like   
