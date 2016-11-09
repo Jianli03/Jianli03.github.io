@@ -1,6 +1,9 @@
 ---
 layout: single
 title: "Use Bower To Manage Front-End Dependencies"
+
+comments: true
+share: true
 ---
 {% include base_path %}
 

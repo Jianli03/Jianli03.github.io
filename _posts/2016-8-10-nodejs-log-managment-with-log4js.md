@@ -3,6 +3,8 @@ layout: single
 title: "Use LOG4JS for Node Application Logging "
 header:
   teaser: /assets/images/my-awesome-post-teaser.jpg
+comments: true
+share: true
 ---
 {% include base_path %}
 
