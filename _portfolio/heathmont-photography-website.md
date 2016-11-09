@@ -2,7 +2,6 @@
 title: "Photography Website"
 excerpt: "This voluntary website project including logo mark,
 website design, and branding applications."
-
 header:
   teaser: /assets/images/bestinshow-th.png
 sidebar:
@@ -18,8 +17,6 @@ gallery:
     - url: /assets/images/cross.png
       image_path: assets/images/cross.png
       alt: "cross platform"
-
- share : false
 ---
 
 This is a voluntary project for me to build a website for Heathmont Photographic Group.
