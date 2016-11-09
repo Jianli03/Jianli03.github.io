@@ -1,6 +1,5 @@
 ---
 title: "Photography Website"
-layout: single
 excerpt: "This voluntary website project including logo mark,
 website design, and branding applications."
 
