@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Use LOG4JS for Node Application Logging"
+title: "Use LOG4JS for Nodejs Logging"
 header:
   teaser: /assets/images/my-awesome-post-teaser.jpg
 comments: true
@@ -11,8 +11,10 @@ tags: [logging, log4js]
 
 {% include base_path %}
 
+
+
 LOG4j is a well known logging framework used in Java. Coming with the same logging style with LOG4J, LOG4JS is easy for those who have Java experience with LOG4J to get started with.   
- 
+
 
 ## 1 Default Console Output
 When we use express framework and start a nodejs app, console will output some message like   
@@ -30,7 +32,7 @@ The output in the console are good enough in dev environment, but not for produc
 
 
 ## 3 Configuration in app.js
-    {% highlight javascript %}
+    {% highlight javascript linenos %}
      var log4js = require('log4js');
      log4js.configure({
        appenders: [
@@ -51,7 +53,8 @@ The output in the console are good enough in dev environment, but not for produc
      //app.use(...)
      //app.use(...)
      app.use(log4js.connectLogger(logger, {level:log4js.levels.INFO}));
-    {% endhighlight %}  
+    {% endhighlight %}   
+
 #### In this example, we defined two types of output in "appenders": one for the console, another for the file. There are more we can use to output logs : DateFile,
                                            SMTP, levelFilter and other appender.
 
