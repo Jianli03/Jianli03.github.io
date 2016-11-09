@@ -1,16 +1,13 @@
 # main links links
 main:
+  - title: "CATEGORIES"
+    url: /categories/
 
-  - title: "WEB"
-    url: /web/
- 
-   - title: "JAVA"
-    url: /java/
-  
   - title: "PORTFOLIO"
     url: /portfolio/
 
+  - title: "RESUME"
+    url: /resume/resume.pdf
+
   - title: "ABOUT"
     url: /about/
-
-
