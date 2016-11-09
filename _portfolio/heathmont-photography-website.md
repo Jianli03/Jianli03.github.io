@@ -16,7 +16,7 @@ sidebar:
     probably keep updating in the future. "
 
 gallery:
-    - url: cross.png
+    - url: /assets/images/cross.png
       image_path: cross.png
       alt: "cross platform"
 
@@ -30,7 +30,7 @@ The group is one of the groups of Heathmont Uniting Church Community Lifestyle C
 ## Following are some thought about this work:
 
 ### Web app is not a sliver bullet.
-![image-right](/images/bootstrap.jpg){: .align-right}
+![image-right](/assets/images/images/bootstrap.jpg){: .align-right}
 I firstly used bootstrap in an android app project to make our app work across platforms. Bootstrap is a good framework for developing responsive, mobile-first projects on the web. However, our app required a huge amount of data communication between front-end and back-end. It ran very slow in a web application form using android’s webview. We should have built it as a native app.
 
 Nowadays millions of amazing sites across the web are being built with Bootstrap. You can get started on your own
@@ -38,7 +38,7 @@ with their growing <a href="../getting-started/#examples">collection of examples
 
 ### Font Awesome
 
-![image-right](/images/font-awesome.jpg){: .align-right}
+![image-right](/assets/images/font-awesome.jpg){: .align-right}
 Font Awesome provides scalable vector icons that can instantly be customized —
 size, color, drop shadow, and anything that can be done with the power of CSS.
 
@@ -56,7 +56,7 @@ Running List of Programs that Allow Font Awesome
 
 
 ### Humanstxt
-![image-right](/images/humanstxt.jpg){: .align-right}
+![image-right](/assets/images/humanstxt.jpg){: .align-right}
 This small text file doesn’t help your website in a technical way, but is just an initiative for knowing the people behind a website. The TXT file contains information about the different people who have contributed to building the website.
 
 I love its spirit. It promotes that the Internet is for humans. The only aim of this initiative is to know who the authors of the sites we visit are. You don’t have to if you don’t want to.

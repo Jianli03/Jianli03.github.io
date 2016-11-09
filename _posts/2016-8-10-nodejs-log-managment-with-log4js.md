@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Use LOG4JS for Node Application Logging "
+header:
+  teaser: /assets/images/my-awesome-post-teaser.jpg
 ---
 {% include base_path %}
 
@@ -50,7 +52,7 @@ The output in the console are good enough in dev environment, but not for produc
 #### "filename" specifies the path of the log file, when the file exceeds the maxLogSize, a new file will be generated.  
 
 #### In log4js.getLogger('normal'); 'normal' here is a category. You can get a logger instance by define different categories according the node package, therefore you know the source of a log.
-![image](/assets/images/appender.jpg) 
+![image](/assets/images/appender.jpg)
 
 
 #### To be aware, ”logs" folder has to be created manually.
