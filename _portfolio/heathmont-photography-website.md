@@ -16,8 +16,8 @@ sidebar:
     probably keep updating in the future. "
 
 gallery:
-    - url: cross.png
-      image_path: /assets/images/cross.png
+    - url: /assets/images/cross.png
+      image_path: assets/images/cross.png
       alt: "cross platform"
 
  share : false
