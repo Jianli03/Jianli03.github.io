@@ -1,10 +1,12 @@
 ---
 layout: single
 title: "Jekyll Basics"
+comments: true
+share: true
 ---
- 
+
  {% include base_path %}
- 
+
 这几天终于弄明白了怎么在Github的pages建立个人博客。 因为好高骛远，使用了mmistake的模版项目，fork下来一大堆东西，不知道怎么入手。
 GitHub pages为了提供对HTML内容的支持，选择了Jekyll作为模板系统。
 Jekyll是一个强大的静态模板系统，所以先搞清Jekyll怎么工作很有必要。

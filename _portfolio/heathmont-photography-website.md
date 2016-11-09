@@ -17,7 +17,7 @@ sidebar:
 
 gallery:
     - url: /assets/images/cross.png
-      image_path: cross.png
+      image_path: /assets/images/cross.png
       alt: "cross platform"
 
 ---
